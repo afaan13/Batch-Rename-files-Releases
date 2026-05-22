@@ -57,16 +57,6 @@ One purchase. No subscriptions. No recurring charges.
 
 ---
 
-## 📲 Install
-
-[`app/build/outputs/apk/debug/app-debug.apk`](app/build/outputs/apk/debug/app-debug.apk)
-
-Or build from source:
-
-```bash
-./gradlew assembleDebug
-```
-
 ---
 
 ## 👤 Author
